@@ -38,7 +38,7 @@
                     ? o("toolbar.Gallery")
                     : n.getters.wheelConfig.title
                     ? n.getters.wheelConfig.title
-                    : "Wheel of Names | " + o("app.Random name picker")
+                    : "Sentence Wheel | " + o("app.Random name picker")
                 );
               (0, u.ZQf)(m);
               const g = (0, r.Fl)(() => n.getters.wheelConfig),
